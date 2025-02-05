@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [1927-maximum-ascending-subarray-sum](https://github.com/janvi100104/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3427-special-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
