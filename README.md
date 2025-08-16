@@ -27,6 +27,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvi100104/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/janvi100104/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/janvi100104/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0792-binary-search](https://github.com/janvi100104/Leetcode/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/janvi100104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -180,6 +181,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/janvi100104/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/janvi100104/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/janvi100104/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -269,6 +271,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/janvi100104/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0868-push-dominoes](https://github.com/janvi100104/Leetcode/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/janvi100104/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janvi100104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
