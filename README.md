@@ -31,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/janvi100104/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/janvi100104/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/janvi100104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/janvi100104/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janvi100104/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/janvi100104/Leetcode/tree/master/0792-binary-search) |
@@ -82,6 +83,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvi100104/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/janvi100104/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/janvi100104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/janvi100104/Leetcode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/janvi100104/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/janvi100104/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -281,6 +283,7 @@
 | [0027-remove-element](https://github.com/janvi100104/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/janvi100104/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/janvi100104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0868-push-dominoes](https://github.com/janvi100104/Leetcode/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/janvi100104/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janvi100104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -307,6 +310,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/janvi100104/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/janvi100104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/janvi100104/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
