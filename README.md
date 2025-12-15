@@ -12,6 +12,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janvi100104/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/janvi100104/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/janvi100104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2383-add-two-integers](https://github.com/janvi100104/Leetcode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/janvi100104/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/janvi100104/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -54,6 +55,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/janvi100104/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/janvi100104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/janvi100104/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/janvi100104/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/janvi100104/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -288,6 +290,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janvi100104/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/janvi100104/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/janvi100104/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/janvi100104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/janvi100104/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Two Pointers
