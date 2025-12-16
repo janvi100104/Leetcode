@@ -373,5 +373,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/janvi100104/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/janvi100104/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
