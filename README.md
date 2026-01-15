@@ -69,6 +69,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/janvi100104/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/janvi100104/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janvi100104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/janvi100104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janvi100104/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/janvi100104/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/janvi100104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -215,6 +216,7 @@
 | [0645-set-mismatch](https://github.com/janvi100104/Leetcode/tree/master/0645-set-mismatch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/janvi100104/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/janvi100104/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/janvi100104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3430-count-days-without-meetings](https://github.com/janvi100104/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/janvi100104/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Data Stream
