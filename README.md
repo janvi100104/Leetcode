@@ -77,6 +77,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janvi100104/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/janvi100104/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/janvi100104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/janvi100104/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/janvi100104/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3427-special-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3427-special-array-ii) |
@@ -354,6 +355,7 @@
 | [0645-set-mismatch](https://github.com/janvi100104/Leetcode/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/janvi100104/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/janvi100104/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/janvi100104/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
