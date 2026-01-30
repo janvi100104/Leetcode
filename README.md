@@ -77,6 +77,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/janvi100104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/janvi100104/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/janvi100104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/janvi100104/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/janvi100104/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/janvi100104/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -177,6 +178,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/janvi100104/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/janvi100104/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/janvi100104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/janvi100104/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/janvi100104/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -329,6 +331,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/janvi100104/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/janvi100104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/janvi100104/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Two Pointers
@@ -402,6 +405,7 @@
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/janvi100104/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/janvi100104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/janvi100104/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/janvi100104/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Combinatorics
@@ -439,4 +443,9 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/janvi100104/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
