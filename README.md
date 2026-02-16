@@ -334,6 +334,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/janvi100104/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/janvi100104/Leetcode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3719-longest-balanced-subarray-i](https://github.com/janvi100104/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/janvi100104/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -410,6 +411,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/janvi100104/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/janvi100104/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/janvi100104/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/janvi100104/Leetcode/tree/master/0645-set-mismatch) |
