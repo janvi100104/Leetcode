@@ -1,21 +1,19 @@
 class Solution {
-    public List<String> readBinaryWatch(int k) {
-        if (k == 0) return List.of("0:00");
-        int mask = (1 << 6) - 1;
-        int q = (1 << k) - 1;
-        int limit = q << (10 - k);
-        List<String> res = new ArrayList<>();
+    public List<String> readBinaryWatch(int turnedOn) {
+        List<String> result = new ArrayList<>();
 
-        while (q <= limit) {
-            int min = q & mask;
-            int hour = q >> 6;
-            if (hour < 12 && min < 60)
-                //res.add(String.format("%d:%02d", hour, min));
-                res.add(hour + ":" + (min < 10 ? "0" : "") + min);
-            int r = q & -q;
-            int n = q + r;
-            q = (((q ^ n) / r) >> 2) | n;
+        for (int hh = 0; hh <= 11; hh++) {
+            for (int mm = 0; mm <= 59; mm++) {
+
+                if (Integer.bitCount(hh) + Integer.bitCount(mm) == turnedOn) {
+                    String hour = String.valueOf(hh);
+                    String minute = (mm < 10 ? "0" : "") + mm;
+                    result.add(hour + ":" + minute);
+                }
+
+            }
         }
-        return res;
+
+        return result;
     }
 }
