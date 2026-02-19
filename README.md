@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvi100104/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0696-count-binary-substrings](https://github.com/janvi100104/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/janvi100104/Leetcode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/janvi100104/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -380,6 +381,7 @@
 | [0202-happy-number](https://github.com/janvi100104/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/janvi100104/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/janvi100104/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0696-count-binary-substrings](https://github.com/janvi100104/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/janvi100104/Leetcode/tree/master/0868-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/janvi100104/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/janvi100104/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
