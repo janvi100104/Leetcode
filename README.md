@@ -12,6 +12,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janvi100104/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janvi100104/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janvi100104/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/janvi100104/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/janvi100104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -223,6 +224,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janvi100104/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/janvi100104/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/janvi100104/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -436,6 +438,7 @@
 | [0868-binary-gap](https://github.com/janvi100104/Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/janvi100104/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/janvi100104/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/janvi100104/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/janvi100104/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
