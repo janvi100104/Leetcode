@@ -61,6 +61,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/janvi100104/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/janvi100104/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/janvi100104/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1980-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/janvi100104/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/janvi100104/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -163,6 +164,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/janvi100104/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/janvi100104/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janvi100104/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/janvi100104/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/janvi100104/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -202,6 +204,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/janvi100104/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/janvi100104/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janvi100104/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janvi100104/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/janvi100104/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -301,6 +304,7 @@
 | [0401-binary-watch](https://github.com/janvi100104/Leetcode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/janvi100104/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/janvi100104/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1980-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janvi100104/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
