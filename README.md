@@ -106,6 +106,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/janvi100104/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janvi100104/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/janvi100104/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/janvi100104/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/janvi100104/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -303,6 +304,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/janvi100104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/janvi100104/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3430-count-days-without-meetings](https://github.com/janvi100104/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janvi100104/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/janvi100104/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/janvi100104/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Data Stream
@@ -439,6 +441,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/janvi100104/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1791-richest-customer-wealth](https://github.com/janvi100104/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/janvi100104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janvi100104/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/janvi100104/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/janvi100104/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Number Theory
