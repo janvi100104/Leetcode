@@ -105,6 +105,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/janvi100104/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3379-transformed-array](https://github.com/janvi100104/Leetcode/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/janvi100104/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/janvi100104/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/janvi100104/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -439,6 +440,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/janvi100104/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/janvi100104/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3640-trionic-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
@@ -472,6 +474,7 @@
 | [2906-construct-product-matrix](https://github.com/janvi100104/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janvi100104/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/janvi100104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/janvi100104/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/janvi100104/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janvi100104/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/janvi100104/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
