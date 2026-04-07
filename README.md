@@ -271,6 +271,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janvi100104/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/janvi100104/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/janvi100104/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/janvi100104/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2551-apply-operations-to-an-array](https://github.com/janvi100104/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2751-robot-collisions](https://github.com/janvi100104/Leetcode/tree/master/2751-robot-collisions) |
@@ -287,6 +288,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/janvi100104/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janvi100104/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/janvi100104/Leetcode/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/janvi100104/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2434-design-a-number-container-system](https://github.com/janvi100104/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
