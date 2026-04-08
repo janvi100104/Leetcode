@@ -125,6 +125,7 @@
 | [3640-trionic-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/janvi100104/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/janvi100104/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/janvi100104/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/janvi100104/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/janvi100104/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/janvi100104/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -282,6 +283,7 @@
 | [3447-clear-digits](https://github.com/janvi100104/Leetcode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/janvi100104/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/janvi100104/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
 | ------- |
@@ -418,6 +420,7 @@
 | [0190-reverse-bits](https://github.com/janvi100104/Leetcode/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/janvi100104/Leetcode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/janvi100104/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/janvi100104/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/janvi100104/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Graph
