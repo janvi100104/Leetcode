@@ -115,6 +115,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/janvi100104/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/janvi100104/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/janvi100104/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/janvi100104/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/janvi100104/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/janvi100104/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -151,6 +152,7 @@
 | [2690-house-robber-iv](https://github.com/janvi100104/Leetcode/tree/master/2690-house-robber-iv) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/janvi100104/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3427-special-array-ii) |
+| [3488-closest-equal-element-queries](https://github.com/janvi100104/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/janvi100104/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/janvi100104/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/janvi100104/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -207,6 +209,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/janvi100104/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/janvi100104/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/janvi100104/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3488-closest-equal-element-queries](https://github.com/janvi100104/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/janvi100104/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/janvi100104/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
