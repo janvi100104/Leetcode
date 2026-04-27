@@ -60,6 +60,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/janvi100104/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/janvi100104/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/janvi100104/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/janvi100104/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janvi100104/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/janvi100104/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -427,6 +428,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/janvi100104/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/janvi100104/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/janvi100104/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janvi100104/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -438,6 +440,7 @@
 | [0210-course-schedule-ii](https://github.com/janvi100104/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/janvi100104/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/janvi100104/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/janvi100104/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/janvi100104/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -521,6 +524,7 @@
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/janvi100104/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/janvi100104/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/janvi100104/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janvi100104/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -666,6 +670,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/janvi100104/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janvi100104/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/janvi100104/Leetcode/tree/master/2573-find-the-string-with-lcp) |
