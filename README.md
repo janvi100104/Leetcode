@@ -150,6 +150,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/janvi100104/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/janvi100104/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/janvi100104/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/janvi100104/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -507,6 +508,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3640-trionic-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/janvi100104/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -549,6 +551,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/janvi100104/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/janvi100104/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/janvi100104/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
