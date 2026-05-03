@@ -252,6 +252,7 @@
 | [0657-robot-return-to-origin](https://github.com/janvi100104/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/janvi100104/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/janvi100104/Leetcode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/janvi100104/Leetcode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/janvi100104/Leetcode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/janvi100104/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -698,5 +699,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/janvi100104/Leetcode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/janvi100104/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
