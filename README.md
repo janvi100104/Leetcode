@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/janvi100104/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/janvi100104/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/janvi100104/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/janvi100104/Leetcode/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvi100104/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/janvi100104/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/janvi100104/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/janvi100104/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/janvi100104/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/janvi100104/Leetcode/tree/master/0169-majority-element) |
@@ -537,6 +539,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/janvi100104/Leetcode/tree/master/0048-rotate-image) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/janvi100104/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/janvi100104/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
