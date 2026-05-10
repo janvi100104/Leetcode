@@ -111,6 +111,7 @@
 | [2690-house-robber-iv](https://github.com/janvi100104/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janvi100104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-robot-collisions](https://github.com/janvi100104/Leetcode/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/janvi100104/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/janvi100104/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/janvi100104/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/janvi100104/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -516,6 +517,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/janvi100104/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2463-minimum-total-distance-traveled](https://github.com/janvi100104/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/janvi100104/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/janvi100104/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/janvi100104/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/janvi100104/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/janvi100104/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
