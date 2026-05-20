@@ -115,6 +115,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/janvi100104/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/janvi100104/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/janvi100104/Leetcode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/janvi100104/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/janvi100104/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/janvi100104/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janvi100104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -251,6 +252,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/janvi100104/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/janvi100104/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/janvi100104/Leetcode/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/janvi100104/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janvi100104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/janvi100104/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/janvi100104/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -636,6 +638,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/janvi100104/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/janvi100104/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/janvi100104/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
