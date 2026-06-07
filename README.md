@@ -104,6 +104,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/janvi100104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/janvi100104/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/janvi100104/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/janvi100104/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/janvi100104/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/janvi100104/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/janvi100104/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -257,6 +258,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janvi100104/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/janvi100104/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/janvi100104/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/janvi100104/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/janvi100104/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -484,6 +486,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/janvi100104/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/janvi100104/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/janvi100104/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -524,6 +527,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/janvi100104/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/janvi100104/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/janvi100104/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/janvi100104/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
