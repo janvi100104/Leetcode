@@ -103,6 +103,7 @@
 | [2107-find-unique-binary-string](https://github.com/janvi100104/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/janvi100104/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/janvi100104/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/janvi100104/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/janvi100104/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/janvi100104/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/janvi100104/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -363,6 +364,7 @@
 | [2048-build-array-from-permutation](https://github.com/janvi100104/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/janvi100104/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/janvi100104/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/janvi100104/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/janvi100104/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/janvi100104/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/janvi100104/Leetcode/tree/master/2751-robot-collisions) |
@@ -604,6 +606,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/janvi100104/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/janvi100104/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/janvi100104/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/janvi100104/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/janvi100104/Leetcode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/janvi100104/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janvi100104/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
