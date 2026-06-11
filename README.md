@@ -32,6 +32,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/janvi100104/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/janvi100104/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/janvi100104/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/janvi100104/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/janvi100104/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -495,6 +496,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/janvi100104/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/janvi100104/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -511,6 +513,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/janvi100104/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/janvi100104/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
