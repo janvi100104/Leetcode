@@ -33,6 +33,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/janvi100104/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/janvi100104/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/janvi100104/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/janvi100104/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/janvi100104/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -161,6 +162,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/janvi100104/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/janvi100104/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/janvi100104/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/janvi100104/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -497,6 +499,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/janvi100104/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -514,6 +517,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/janvi100104/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/janvi100104/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/janvi100104/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
@@ -589,6 +593,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/janvi100104/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janvi100104/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/janvi100104/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/janvi100104/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3640-trionic-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/janvi100104/Leetcode/tree/master/3660-jump-game-ix) |
@@ -689,6 +694,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/janvi100104/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janvi100104/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/janvi100104/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/janvi100104/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Queue
 |  |
 | ------- |
