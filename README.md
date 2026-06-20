@@ -17,6 +17,7 @@
 | [1622-fancy-sequence](https://github.com/janvi100104/Leetcode/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janvi100104/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/janvi100104/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1840-maximum-building-height](https://github.com/janvi100104/Leetcode/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/janvi100104/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janvi100104/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janvi100104/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -89,6 +90,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/janvi100104/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/janvi100104/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/janvi100104/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1840-maximum-building-height](https://github.com/janvi100104/Leetcode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/janvi100104/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/janvi100104/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/janvi100104/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -440,6 +442,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/janvi100104/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/janvi100104/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/janvi100104/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/janvi100104/Leetcode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/janvi100104/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/janvi100104/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/janvi100104/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
