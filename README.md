@@ -72,6 +72,7 @@
 | [1200-minimum-absolute-difference](https://github.com/janvi100104/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/janvi100104/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/janvi100104/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/janvi100104/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/janvi100104/Leetcode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/janvi100104/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/janvi100104/Leetcode/tree/master/1340-jump-game-v) |
@@ -625,6 +626,7 @@
 | [0868-push-dominoes](https://github.com/janvi100104/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/janvi100104/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/janvi100104/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/janvi100104/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/janvi100104/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/janvi100104/Leetcode/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/janvi100104/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -687,6 +689,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/janvi100104/Leetcode/tree/master/0048-rotate-image) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/janvi100104/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/janvi100104/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/janvi100104/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/janvi100104/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/janvi100104/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
